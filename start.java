@@ -14,8 +14,10 @@ public class start {
 		//paczka1.waga = 5;
 		
 		int objetosc = paczka1.objetosc();
+		int polePodstawy = paczka1.polePodstawy();
 		
 		System.out.println("objetosc paczki wynosi " + objetosc);
+		System.out.println("pole podstawy paczki wynosi " + polePodstawy);
 
 		
 		
