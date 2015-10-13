@@ -11,6 +11,11 @@ public class paczka {
 		return dlugosc * szerokosc * wysokosc;
 	}
 	
+	int polePodstawy() {
+		
+		return getDlugosc() * getSzerokosc();
+	}
+	
 	
 	paczka() {};
 	
