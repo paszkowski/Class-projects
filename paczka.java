@@ -23,4 +23,43 @@ public class paczka {
 		
 	}
 	
+		public int getDlugosc() {
+		return dlugosc;
+	}
+
+
+	public void setDlugosc(int dlugosc) {
+		this.dlugosc = dlugosc;
+	}
+
+
+	public int getSzerokosc() {
+		return szerokosc;
+	}
+
+
+	public void setSzerokosc(int szerokosc) {
+		this.szerokosc = szerokosc;
+	}
+
+
+	public int getWysokosc() {
+		return wysokosc;
+	}
+
+
+	public void setWysokosc(int wysokosc) {
+		this.wysokosc = wysokosc;
+	}
+
+
+	public int getWaga() {
+		return waga;
+	}
+
+
+	public void setWaga(int waga) {
+		this.waga = waga;
+	}
+	
 }
